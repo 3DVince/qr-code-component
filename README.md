@@ -15,7 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./images/screenshot.png)
+![Screenshot](./images/screenshot.png)
 
 ### Links
 
@@ -34,5 +34,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Vincent Gruse](https://www.linkedin.com/in/vincentgruse/)
-- Frontend Mentor - [@3DVince](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Vincent Gruse](vincentgruse.github.io/qr-code-component)
+- Frontend Mentor - [@vincentgruse](https://www.frontendmentor.io/profile/vincentgruse)
